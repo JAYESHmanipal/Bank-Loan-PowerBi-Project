@@ -1,20 +1,5 @@
 # PowerBI project
-
-## Dashboard 1: Summary
-![Summary](images/Screenshot1.png)
-
-## Dashboard 2: Overview
-![Overview](images/Screenshot2.png)
-
-## Dashboard 3: Details
-![Details](images/Screenshot3.png)
-
-## Slicers Implementation
-- Overview of `Total Funded Amount` for Loan of Grade `B` in State `AR`
-![filter](images/Screenshot4.png)
-
----
-
+ 
 ## DAX Queries Used
 
 ```bash
